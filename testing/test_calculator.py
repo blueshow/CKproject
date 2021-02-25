@@ -1,4 +1,6 @@
 # content of test_sample.py
+import allure
+
 
 @allure.feature("计算器")
 class TestCalc:
